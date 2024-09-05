@@ -1,6 +1,6 @@
-train: /content/ThaiInsectv8/train
-val: /content/ThaiInsectv8/valid
-test: /content/ThaiInsectv8/test
+train: C:/Users/Gumpun/Desktop/Project/DetectionInsect/ThaiInsectv8/train
+val: C:/Users/Gumpun/Desktop/Project/DetectionInsect/ThaiInsectv8/valid
+test: C:/Users/Gumpun/Desktop/Project/DetectionInsect/ThaiInsectv8/test
 
 nc: 36
 names: ['AgrotisSegetumDenis', 'AleurodicusDispersus', 'AmrascaBiguttula', 'AmritodusAtkinsoni', 'AnoplolepisGracilipes', 'AphisCraccivoraKoch', 'BatoceraRufomaculata', 'BemisiaTabaci', 'BrontispaLongissima', 'FrankliniellaOccidentalis', 'GynaikothripsFicorum', 'HelicoverpaArmigera', 'HelopeltisAntonii', 'HeteropsyllaCubana', 'HomonaCoffearia', 'IiriomyzaHuidobrensis', 'IschnaspisLongirostris', 'NezaraViridula', 'OligonychusCoffeae', 'OligonychusMangiferus', 'OxycarenusHyalinipennis', 'ParabemisiaMyricae', 'Pectinophora', 'PectinophoraGossypiella', 'PhyllotretaStriolata', 'PlutellaXylostella', 'PseudococcusLongispinus', 'ScirpophagaInnotata', 'ScrobipalpaHeliopa', 'SolenopsisGeminate', 'StromatiumBarbatum', 'SusicaSinensis', 'TarophagusProserpina', 'ThripsSimplex', 'ThripsTabaci', 'leptocybeInvasaFisher']
